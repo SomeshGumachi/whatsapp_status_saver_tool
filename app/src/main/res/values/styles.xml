@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary"> @color/colorPrimary</item>
+        <item name="colorPrimaryDark"> @color/colorPrimaryDark</item>
+        <item name="colorAccent"> @color/colorAccent</item>
+    </style>
+
+    <style name="ThemeOverlay.DownloadStatus.Dark.ActionBar"
+        parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
+    <style name="ProgressBarTheme" parent="ThemeOverlay.MaterialComponents.Light">
+        <item name="colorAccent">@color/progressbar_color</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="MyCustomTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
+
+</resources>

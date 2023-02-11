@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="image">Image</string>
+    <string name="video">Video</string>
+    <string name="download">Download</string>
+    <string name="saved">Saved</string>
+    <string name="direct">Direct</string>
+    <string name="share_app">Share app</string>
+    <string name="rate_app">Rate app</string>
+    <string name="user_name">Name</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <string name="no_data_found">No data Found</string>
+    <string name="share">Share</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="deleted">Deleted</string>
+    <string name="delete">Delete</string>
+    <string name="downloading">Downloading…</string>
+    <string name="play_more_app">https://play.google.com/store/apps</string>
+</resources>

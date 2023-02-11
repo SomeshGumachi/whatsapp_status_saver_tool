@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#25D366</color>
+    <color name="colorPrimaryDark">#25D366</color>
+    <color name="colorAccent">#25D366</color>
+    <color name="toolbar">#25D366</color>
+    <color name="nav_header_bg">#25D366</color>
+
+    <color name="tab_indicator">#FFFFFF</color>
+    <color name="tabView_text">#99FFFFFF</color>
+
+    <color name="nav_drawer">#FFFFFF</color>
+    <color name="drawer_item">#626262</color>
+
+    <color name="app_background">#f2f2f2</color>
+    <color name="progressbar_color">#25D366</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="drop_down_text">#FF000000</color>
+</resources>
